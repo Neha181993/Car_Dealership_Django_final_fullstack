@@ -1,7 +1,6 @@
     1  sudo apt-get install git
     2  git config --global user.name "Neha181993"
     3  git config --global user.email "kolsukarneha93@gmail.com
-"
     4  git config --global user.email "kolsukarneha93@gmail.com"
     5  git init
     6  git remote add origin https://github.com/Neha181993/Django-Project-Sample.git
